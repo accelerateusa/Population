@@ -27,7 +27,7 @@ if __name__ == '__main__':
     for i in top:
         typesofpeople[str(i)] = 0
         print(typesofpeople[i])
-        
+        pass
 
 
 
